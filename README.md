@@ -41,9 +41,8 @@ Key Findings
 These findings describe the available dataset and should not be interpreted as definitive assessments of current air quality in each country.
 
 Files
-<img width="1366" height="768" alt="bi 2" src="https://github.com/user-attachments/assets/4b663328-46f7-440a-9c52-6af952e0ec9d" />
 
-
+<img width="898" height="488" alt="SATIS" src="https://github.com/user-attachments/assets/1d4f4ba9-57c9-48ec-8a6c-0b86edb5ff73" />
 
 Learning Outcomes
 
