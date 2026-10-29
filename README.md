@@ -42,7 +42,7 @@ These findings describe the available dataset and should not be interpreted as d
 
 Files
 
-<img width="898" height="488" alt="SATIS" src="https://github.com/user-attachments/assets/1d4f4ba9-57c9-48ec-8a6c-0b86edb5ff73" />
+<img width="1080" height="609" alt="WhatsApp Image 2026-10-29 at 12 22 57" src="https://github.com/user-attachments/assets/7b82d625-d028-4329-801a-a535777f4cf5" />
 
 Learning Outcomes
 
